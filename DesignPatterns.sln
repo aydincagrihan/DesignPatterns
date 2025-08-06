@@ -11,6 +11,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.SingletonDesignPattern", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatternSimulate", "DesignPatternSimulate\DesignPatternSimulate.csproj", "{18CFEB8A-8729-4E56-A15C-7C34A756D359}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.MultitonDesignPattern", "2.MultitonDesignPattern", "{81EA0D01-7F99-4C92-8215-D37FF30D466E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.1.MultitonDesignPattern", "2.1.MultitonDesignPattern\2.1.MultitonDesignPattern.csproj", "{796487CD-97D3-4DD2-A4B4-A4B9D1CD8790}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -29,6 +33,10 @@ Global
 		{18CFEB8A-8729-4E56-A15C-7C34A756D359}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{18CFEB8A-8729-4E56-A15C-7C34A756D359}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{18CFEB8A-8729-4E56-A15C-7C34A756D359}.Release|Any CPU.Build.0 = Release|Any CPU
+		{796487CD-97D3-4DD2-A4B4-A4B9D1CD8790}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{796487CD-97D3-4DD2-A4B4-A4B9D1CD8790}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{796487CD-97D3-4DD2-A4B4-A4B9D1CD8790}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{796487CD-97D3-4DD2-A4B4-A4B9D1CD8790}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -37,6 +45,7 @@ Global
 		{13681A9F-BF23-4362-A8D7-089415A3D139} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 		{F6787604-D6DC-4F30-9E42-0BA5EC3E6313} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 		{18CFEB8A-8729-4E56-A15C-7C34A756D359} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{796487CD-97D3-4DD2-A4B4-A4B9D1CD8790} = {81EA0D01-7F99-4C92-8215-D37FF30D466E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B147E44E-29DA-4577-925E-F402F1822870}

@@ -1,4 +1,5 @@
-﻿#region Tanimlar giris..
+﻿ 
+#region Tanimlar giris..
 
 /*
  
